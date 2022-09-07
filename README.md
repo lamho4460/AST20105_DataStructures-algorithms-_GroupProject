@@ -1,0 +1,1 @@
+#Develop a program that performs basic operations such as file reading, searching for a record, inserting new records, deleting records, searching records in a batch, and/or other requested functions. We choice the Link-list data structure as the structure.
